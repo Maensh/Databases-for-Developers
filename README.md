@@ -1,2 +1,2 @@
 # Databases-for-Developers
- improving my Oracle SQL skills.
+ Improving my Oracle SQL skills.
